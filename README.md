@@ -22,7 +22,6 @@ And init the mocks:
 
 Mocks currently included:
 
-* Firebase
 * Geolocation
 * Linking
 * ScrollView
