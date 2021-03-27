@@ -38,6 +38,7 @@ Mocks currently included:
 * Geolocation
 * Linking
 * ScrollView
+* YellowBox
 * console.error: This is currently included to avoid some warnings from react-navigation.
 
 ## License
